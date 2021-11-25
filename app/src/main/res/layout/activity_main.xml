@@ -26,7 +26,11 @@
                 android:layout_height="272dp"
                 android:adjustViewBounds="true"
                 android:contentDescription="@string/imagen1"
+<<<<<<< HEAD
                 app:srcCompat="@drawable/_205974"
+=======
+                tools:srcCompat="@tools:sample/backgrounds/scenic"
+>>>>>>> sprint2
                 tools:ignore="ImageContrastCheck" />
 
             <TextView
@@ -39,7 +43,11 @@
                 android:text="@string/Title1"
                 android:textColor="#D2DFDF"
                 android:textSize="20sp"
+<<<<<<< HEAD
                 app:srcCompat="@drawable/_205974" />
+=======
+                />
+>>>>>>> sprint2
 
             <TextView
                 android:id="@+id/textViewDescribe"
@@ -63,7 +71,12 @@
                 android:text="@string/Title2"
                 android:textColor="#D2DFDF"
                 android:textSize="20sp"
+<<<<<<< HEAD
                 app:srcCompat="@drawable/_205974" />
+=======
+                 />
+
+>>>>>>> sprint2
 
             <ImageView
                 android:id="@+id/imageView5"
@@ -72,7 +85,11 @@
                 android:layout_marginTop="5dp"
                 android:adjustViewBounds="true"
                 android:contentDescription="@string/imagen1"
+<<<<<<< HEAD
                 app:srcCompat="@drawable/pexels_santiago_boada_7613843"
+=======
+                app:srcCompat="@drawable/bogot2"
+>>>>>>> sprint2
                 tools:ignore="ImageContrastCheck"
 
                 />
@@ -86,7 +103,11 @@
                 android:text="@string/Describe2"
                 android:textColor="#D2DFDF"
                 android:textSize="20sp"
+<<<<<<< HEAD
                 app:srcCompat="@drawable/_205974" />
+=======
+                 />
+>>>>>>> sprint2
 
             <TextView
                 android:id="@+id/textView8"
@@ -98,7 +119,11 @@
                 android:text="@string/Title3"
                 android:textColor="#D2DFDF"
                 android:textSize="20sp"
+<<<<<<< HEAD
                 app:srcCompat="@drawable/_205974" />
+=======
+                 />
+>>>>>>> sprint2
 
             <ImageView
                 android:id="@+id/imageView8"
@@ -107,7 +132,11 @@
                 android:layout_marginTop="5dp"
                 android:adjustViewBounds="true"
                 android:contentDescription="@string/imagen1"
+<<<<<<< HEAD
                 app:srcCompat="@drawable/pexels_pixabay_63332"
+=======
+                app:srcCompat="@drawable/vancover2"
+>>>>>>> sprint2
                 tools:ignore="ImageContrastCheck"
 
                 />
@@ -121,7 +150,16 @@
                 android:text="@string/Describe3"
                 android:textColor="#D2DFDF"
                 android:textSize="20sp"
+<<<<<<< HEAD
                 app:srcCompat="@drawable/_205974" />
+=======
+                 />
+
+
+
+
+
+>>>>>>> sprint2
 
 
 
@@ -132,5 +170,8 @@
 
 
 </LinearLayout>
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> sprint2

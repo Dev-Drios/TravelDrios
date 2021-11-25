@@ -1,4 +1,4 @@
-package com.edu.udistrital.traveldrios
+package com.example.myapplication
 
 import org.junit.Test
 
