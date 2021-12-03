@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
         <entry key="..\:/Users/ENECO SAS/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_list_drios_travel2.xml" value="0.33" />
         <entry key="..\:/Users/ENECO SAS/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/ENECO SAS/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_registro_ciudad.xml" value="0.25" />
@@ -13,6 +14,16 @@
         <entry key="..\:/Users/GINA/Downloads/MyApplication/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/GINA/Downloads/MyApplication/MyApplication/app/src/main/res/layout/activity_registro_ciudad.xml" value="0.24739583333333334" />
         <entry key="..\:/Users/GINA/Downloads/MyApplication/MyApplication/app/src/main/res/layout/item_ciudad.xml" value="0.24739583333333334" />
+=======
+        <entry key="..\:/Users/GINA/Desktop/Trav/app/src/main/res/layout/activity_detalle.xml" value="0.3432080924855491" />
+        <entry key="..\:/Users/GINA/Desktop/Trav/app/src/main/res/layout/activity_list_city.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/GINA/Desktop/Trav/app/src/main/res/layout/activity_list_place.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/GINA/Desktop/Trav/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/GINA/Desktop/Trav/app/src/main/res/layout/activity_registro_ciudad.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/GINA/Desktop/Trav/app/src/main/res/layout/card_view_place_item.xml" value="0.33" />
+        <entry key="..\:/Users/GINA/Desktop/Trav/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4453125" />
+        <entry key="..\:/Users/GINA/Desktop/Trav/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4453125" />
+>>>>>>> main
       </map>
     </option>
   </component>

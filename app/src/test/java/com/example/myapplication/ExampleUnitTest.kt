@@ -1,4 +1,8 @@
+<<<<<<< HEAD:app/src/test/java/com/example/myapplication/ExampleUnitTest.kt
 package com.example.myapplication
+=======
+package com.edu.udistrital.trav
+>>>>>>> main:app/src/test/java/com/edu/udistrital/trav/ExampleUnitTest.kt
 
 import org.junit.Test
 
