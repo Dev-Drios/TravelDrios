@@ -1,0 +1,65 @@
+[
+    {
+        "nombre" : "Bogota",
+        "calificacion" : "Puntuacion 8 de 10",
+        "Rank": 5,
+        "descripcion" : "Bogota es la capital de colombia con muchos lugares para visitar como lo es monserrate",
+        "comentario": "Bogotá es una ciudad que tiene de todo para todos los gustos. Es una ciudad excelente para personas que gusten visitar lugares históricos, escenarios naturales, vistas panorámicas (Monserrate y Torre Colpatria), museos, hasta lugares que brindan buen ambiente de noche y zonas comerciales exclusivas.",
+        "urlfoto" : "https://images.pexels.com/photos/7613843/pexels-photo-7613843.jpeg"
+    },
+    {
+        "nombre" : "Vancouver",
+        "calificacion" : "Puntuacion 8 de 10",
+        "Rank": 4,
+        "descripcion" : "Vancouver es la capital de canada con muchos lugares para visitar",
+        "comentario": "Estuve con amigos de regreso de las vacaciones en CHina....regresando con Air Canadá a Argentina via Toronto.\nEs una ciudad muy tranquila, tiene de todo....un barrio chino enorme con mercado para visitar, montaña...a pocos kilómetros hay pistas de sky y también viñedos, mar para los que gusten de barcos y veleros....",
+        "urlfoto" : "https://images.pexels.com/photos/63332/science-world-false-creek-vancouver-british-columbia-63332.jpeg"
+    },
+    {
+        "nombre" : "Madrid",
+        "calificacion" : "Puntuacion 8 de 10",
+        "Rank": 4,
+        "descripcion" : "Madrid es la capital de españa con muchos lugares para visitar",
+        "comentario": "Si Madrid se siente como un cuento de hadas, se debe en parte a que tantos de sus edificios parecen castillos. Incluso el Ayuntamiento es asombroso, con sus pináculos blancos y sus detalles neogóticos. Un tour arquitectónico autoguiado puede comenzar en la grandiosa estatua del oso y el madroño en la Puerta del Sol. Recorre el extravagante Palacio Real antes de absorber la belleza natural del Parque del Retiro, luego visita alguno de los muchos museos de la ciudad. También puedes encontrar arte en tu plato y en tu copa, así que te recomendamos que cierres cada día con una copa de vino riojano y unas tapas.",
+        "urlfoto" : "https://images.pexels.com/photos/670261/pexels-photo-670261.jpeg"
+    },
+    {
+        "nombre" : "Tokyo",
+        "calificacion" : "Puntuacion 8 de 10",
+        "Rank": 4,
+        "descripcion" : "Tokyo es la capital de japon con muchos lugares para visitar",
+        "comentario": "Con sus rascacielos futurísticos, su ambiente gastronómico incomparable y su vida nocturna salvaje, Tokio es una descarga de pura adrenalina. Esta enorme y multifacética ciudad es famosa por ser moderna y, sin embargo, sus antiguos templos budistas, sus clásicas casas de té y sus pacíficos jardines ofrecen un tranquilo escape y son un conmovedor recordatorio de la larga historia de la ciudad. Y, para aquellos que saben en dónde buscar, los placeres más pequeños de Tokio (lugares secretos para probar ramen, callejones de compras, tranquilos bares de discos) generalmente están escondidos a simple vista.",
+        "urlfoto" : "https://images.pexels.com/photos/4344748/pexels-photo-4344748.jpeg"
+    },
+    {
+        "nombre" : "Buenos Aires",
+        "calificacion" : "Puntuacion 8 de 10",
+        "Rank": 4,
+        "descripcion" : "Buenos Aires es la capital de argentina con muchos lugares para visitar",
+        "comentario": "La cuna del tango es, como la danza en sí, cautivante, seductora y está repleta de vibrante energía. Las antiguas colonias evocadoras están llenas de restaurantes románticos y emocionante vida nocturna, y la herencia europea es evidente en la arquitectura de Buenos Aires, en sus bulevares y en sus parques. El Café Tortoni, el bar más antiguo de la ciudad, te transportará a 1858, y el sensacional Teatro Colón sigue causando el mismo efecto en el espectador que en 1908. La capital de las compras de Latinoamérica ofrece la promesa de una lujosa terapia de compras por sus amplios bulevares.",
+        "urlfoto" : "https://images.pexels.com/photos/4618366/pexels-photo-4618366.jpeg"
+    },
+    {
+        "nombre" : "Bruselas",
+        "calificacion" : "Puntuacion 8 de 10",
+        "descripcion" : "Bruselas es la capital de belgica con muchos lugares para visitar",
+        "comentario": "La humilde Bruselas es la capital de Bélgica, Flandes y Europa. Sin embargo, la Grande Place medieval es realmente grandiosa, con numerosos edificios del siglo XVII y un mercado de flores diario. El Atomium, la Torre Eiffel de Bruselas, que abrió de nuevo sus puertas en 2006, proporciona grandes vistas, tanto por dentro como por fuera. Los aficionados a la arquitectura deberían visitar el Museo Horta, hogar del magistral arquitecto belga Victor Horta. Los clubes y bares de Saint Géry están llenos a diario durante todo el año. Alrededor de Sainte Cathérine abundan los restaurantes de marisco. Pasee por las callejuelas para evitar verse rodeado del tráfico de las grandes avenidas.",
+        "urlfoto" : "https://a.cdn-hotels.com/gdcs/production178/d1699/8f999c57-cf7b-47cf-9252-8e3513ef570d.jpg"
+    },
+    {
+        "nombre" : "Brasilia",
+        "calificacion" : "Puntuacion 8 de 10",
+        "Rank": 4,
+        "descripcion" : "Brasilia es la capital de brasil con muchos lugares para visitar",
+        "comentario": "La capital de Brasil se construyó entre 1956 y 1960 en una sabana tropical. Es una joya de la planificación urbanística moderna. Cuenta con sensacionales y reconocidos emplazamientos arquitectónicos. La cosmopolita Brasilia celebra numerosos festivales y alberga el Museo Nacional y la Biblioteca Nacional de la República.",
+        "urlfoto" : "https://images.pexels.com/photos/9557512/pexels-photo-9557512.jpeg"
+    },
+    {
+        "nombre" : "Washington D. C.",
+        "calificacion" : "Puntuacion 8 de 10",
+        "Rank": 4,
+        "descripcion" : "Washington es la capital de estados unidos con muchos lugares para visitar",
+        "comentario": "Desde los monumentos y memoriales del National Mall hasta las dinámicas colonias llenas de personalidad y encanto, D. C.es un destino de primera categoría. Es un viaje familiar estelar, cargado de cosas que hacer gratuitas, pero las parejas que quieran hacer una escapada romántica y quienes viajen solos también se sentirán cautivados. Disfruta del espectacular arte dramático en teatros aclamados, sal de compras en el histórico Georgetown, escucha excelente música en vivo en sitios legendarios, disfruta de eventos deportivos en seis franquicias profesionales y recorre los restaurantes con estrellas Michelin de la ciudad.",
+        "urlfoto" : "https://images.pexels.com/photos/3964406/pexels-photo-3964406.jpeg"
+    }
+]

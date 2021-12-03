@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">TravelDrios</string>
+    <string name="imagen1">Maravillas del mundo para visitar</string>
+    <string name="Title1">Ya estamos en 2021, ¡Es hora de pensar a lo grande!</string>
+    <string name="Title2">Bogotá</string>
+    <string name="Title3">Vancouver</string>
+    <string name="Describe1">En esta serie de articulos, lo Apasionados por un destino de TravelDrios nos informan sobre los lugares que hay que visitar el 2021 </string>
+    <string name="Describe2">Bogotá es una ciudad que tiene de todo para todos los gustos. Es una ciudad excelente para personas que gusten visitar lugares históricos, escenarios naturales, vistas panorámicas (Monserrate y Torre Colpatria), museos, hasta lugares que brindan buen ambiente de noche y zonas comerciales exclusivas. </string>
+    <string name="Describe3">Estuve con amigos de regreso de las vacaciones en CHina....regresando con Air Canadá a Argentina via Toronto.
+Es una ciudad muy tranquila, tiene de todo....un barrio chino enorme con mercado para visitar, montaña...a pocos kilómetros hay pistas de sky y también viñedos, mar para los que gusten de barcos y veleros....</string>
+    <string name="todo">TODO</string>
+    <string name= "bogocard">Bogotá es la capital de Colombia y tiene lugares turisticos como Monserrate, Torre Copatria entre otros</string>
+    <string name="start">Star</string>
+    <string name="Nostart">NoStar</string>
 </resources>
